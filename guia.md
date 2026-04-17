@@ -219,6 +219,11 @@ Esse esqueleto serve apenas como ponto de partida. Ele não está completo, mas 
 ### Exemplo de `index.html`
 
 ```html
+
+</html>
+```
+
+### Exemplo de `css/style.css`
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -244,11 +249,6 @@ Esse esqueleto serve apenas como ponto de partida. Ele não está completo, mas 
 
   <script src="js/script.js"></script>
 </body>
-</html>
-```
-
-### Exemplo de `css/style.css`
-
 ```css
 body {
   font-family: Arial, sans-serif;
