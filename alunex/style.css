@@ -1,18 +1,27 @@
-*{
-padding: 0%;
-margin: 0%;
-}
-body {
-  background-color: #f2f6ff;
 
+body {
+  margin: 0;
+  height: 100vh;
+
+  background-image: url('Fotos-de-Macacos-2.jpg'), url('Fotos-de-Macacos-2.jpg');
+  background-repeat: no-repeat, no-repeat;
+
+  background-position: left center, right center;
+  background-size: 200px, 200px; 
+  background-position: 
 }
 
 h1{ 
 text-align: center; 
 font-size: 100px}
 h2{text-align: center; font-size: 40px;}
-img{
-width: 100px;
-left: 50px;
+.btn{
+background-color: #ffcc00;
+  color: black;
+  padding: 15px 30px;
+  font-size: 20px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
 
 }
